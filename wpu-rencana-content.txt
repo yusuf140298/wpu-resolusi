@@ -6,6 +6,7 @@ RENCANA KONTEN WPU
   * Framework Javascript
     ^ Vue
     ^ React
+     ^membahasas plugin dan libaries untuk react
     ^ Angular
   * Library Javascript
     ^ Highcharts.js
@@ -16,6 +17,7 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+-implementasi Java pada Website
 - Python
   ^ Django
 - Quick Tips dan trik programming ala Pak Sandhika Galih
